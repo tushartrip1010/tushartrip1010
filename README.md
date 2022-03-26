@@ -8,7 +8,7 @@ I like exploring new technologies, building small projects, and occassionally jo
 - 🌱 I’m currently learning C++ DSA.
 - 👯 I’m looking forward to collaborate with lots of devlopers.
 - 🤔 I’m looking for help with improving my dev skills.
-- 💬 Ask me about anything at [here](https://github.com/Tusharr08/Tusharr08/issues) !
+- 💬 Ask me about anything at [here](https://github.com/Tusharr08/tushartrip1010/issues) !
 - ⚡ Fun fact: I like anime.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tushargupta08)
@@ -26,11 +26,11 @@ I like exploring new technologies, building small projects, and occassionally jo
 
 
 
-<p align=left><img align="center" src=https://github-readme-stats.vercel.app/api?username=Tusharr08&show_icons=true&theme=tokyonight /></p>
+<p align=left><img align="center" src=https://github-readme-stats.vercel.app/api?username=tushartrip1010&show_icons=true&theme=tokyonight /></p>
 
-<p align=left><img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharr08&layout=compact&theme=tokyonight /></p>
+<p align=left><img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=tushartrip1010&layout=compact&theme=tokyonight /></p>
 
-<p align=left><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tusharr08&" /></p>
+<p align=left><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushartrip10108&" /></p>
 
 
 <!--![Tusharr's github activity graph](https://activity-graph.herokuapp.com/graph?username=Tusharr08&theme=dracula)-->
